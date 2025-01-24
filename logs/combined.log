@@ -1,0 +1,16 @@
+{"email":"test@example1.com","level":"info","message":"User registered successfully","service":"task-manager","timestamp":"2025-01-24 10:16:58","userId":3}
+{"email":"test@example1.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 10:18:02","userId":3}
+{"body":{"password":"password1231","username":"test@example1.com"},"errors":[{"location":"body","msg":"Invalid email","path":"email","type":"field"}],"level":"warn","message":"Validation failed during login","service":"task-manager","timestamp":"2025-01-24 10:40:20"}
+{"email":"admin@gmail.com","level":"info","message":"User registered successfully","service":"task-manager","timestamp":"2025-01-24 10:42:13","userId":4}
+{"email":"admin@gmail.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 10:42:25","userId":4}
+{"body":{"password":"admin123","username":"admin"},"errors":[{"location":"body","msg":"Invalid email","path":"email","type":"field"}],"level":"warn","message":"Validation failed during login","service":"task-manager","timestamp":"2025-01-24 10:42:43"}
+{"body":{"password":"admin@123"},"errors":[{"location":"body","msg":"Invalid email","path":"email","type":"field"}],"level":"warn","message":"Validation failed during login","service":"task-manager","timestamp":"2025-01-24 10:48:11"}
+{"email":"admin@gmail.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 10:56:03","userId":4}
+{"email":"Pranjal@gmail.com","level":"info","message":"User registered successfully","service":"task-manager","timestamp":"2025-01-24 10:57:04","userId":5}
+{"email":"pranjal@gmail.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 10:57:26","userId":5}
+{"email":"pranjal@gmail.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 10:58:50","userId":5}
+{"email":"pranjal@gmail.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 11:36:53","userId":5}
+{"email":"pranjal@gmail.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 11:43:32","userId":5}
+{"email":"pranjal@gmail.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 12:00:29","userId":5}
+{"email":"test@test.com","level":"info","message":"User registered successfully","service":"task-manager","timestamp":"2025-01-24 12:04:55","userId":6}
+{"email":"pranjal@gmail.com","level":"info","message":"User logged in successfully","service":"task-manager","timestamp":"2025-01-24 12:22:25","userId":5}
